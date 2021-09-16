@@ -3,7 +3,7 @@
 The idea of this progress report template is that the student sends it to his/her supervisors the afternoon/evening before the meeting.
 
 ## Requirements
-* ```pandocs```
+* ```pandoc```
 
 ## How to use it
 Adjust the markdown file and run the ```build``` file in the ```build``` folder to generate a pdf.
