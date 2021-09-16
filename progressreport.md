@@ -18,6 +18,6 @@ A summary of what you worked on this week. You can cite [@rebecq_esim_nodate] an
 # Next steps
 * A list
 * of your next
-* panned steps
+* planned steps
 
 # Bibliography
