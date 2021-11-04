@@ -3,6 +3,8 @@ author: John Doe
 title: "Simulating event-based cameras with frame-based cameras"
 subtitle: "Progress report week X"
 institute: "Cognitive Systems, University of Tübingen"
+documentclass: scrartcl
+papersize: a4
 ---
 
 # Summary
