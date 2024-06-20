@@ -1,6 +1,6 @@
 ---
 author: John Doe
-title: "Simulating event-based cameras with frame-based cameras"
+title: "Your amazing thesis title"
 subtitle: "Progress report week X"
 institute: "Cognitive Systems, University of Tübingen"
 documentclass: scrartcl
